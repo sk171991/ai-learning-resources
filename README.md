@@ -1,6 +1,6 @@
 # AI Learnings
 
-A personal reference library for learning and building production-ready AI systems. The collection covers large language models (LLMs), AI agents, retrieval-augmented generation (RAG), context engineering, prompting, observability, governance, and interview preparation.
+A personal reference library for learning and building production-ready AI systems. The collection covers large language models (LLMs), AI agents, retrieval-augmented generation (RAG), context engineering, prompting, security, cloud platforms, software architecture, reliability, governance, and interview preparation.
 
 ## Suggested learning path
 
@@ -36,11 +36,22 @@ A personal reference library for learning and building production-ready AI syste
    - [Context Engineering.pdf](Context%20Engineering.pdf)
    - [Context Engineering for AI Agents.pdf](Context%20Engineering%20for%20AI%20Agents.pdf)
    - [LLM Observability.pdf](LLM%20Observability.pdf)
+   - [LLM Security - OWASP and Zero Trust.pdf](LLM_Security_OWASP_ZeroTrust.pdf)
    - [Scaling LLM systems.pdf](Scaling%20LLM%20systems.pdf)
    - [Token Optimization Budget.pdf](Token%20Optimization%20Budget.pdf)
    - [MODEL AI GOVERNANCE FOR AGENTIC AI.pdf](MODEL%20AI%20GOVERNANCE%20FOR%20AGENTIC%20AI.pdf)
 
-6. **Connect systems to business value**
+6. **Strengthen architecture and reliability**
+   - [Head First Software Architecture (2023).pdf](Head%20First%20Software%20Architecture%20%282023%29.pdf)
+   - [Site Reliability Engineering - How Google Runs Production Systems.pdf](Site%20Reliability%20Engineering_%20How%20Google%20Runs%20Production%20Systems%20%28%20PDFDrive%20%29.pdf)
+   - [System Design Concepts.pdf](System%20Design%20Concepts.pdf)
+   - [System Design Book - 344 pages.pdf](System%20Design%20Book%20%20-%20344%20pages.pdf)
+
+7. **Learn cloud AI fundamentals**
+   - [AWS AI Practitioner Certification Crash Course.pdf](awsaipractitionercertcrashcourse1777382282346%20%281%29.pdf)
+   - [Agentic AI frameworks, protocols, and tools on AWS.pdf](Agentic%20AI%20frameworks%2C%20protocols%2C%20and%20tools%20on%20AWS.pdf)
+
+8. **Connect systems to business value**
    - [ai_value_creators_book.pdf](ai_value_creators_book.pdf)
 
 ## Topics
@@ -50,16 +61,17 @@ A personal reference library for learning and building production-ready AI syste
 | AI engineering | LLM fundamentals, application architecture, deployment, scaling, and production practices |
 | AI agents | Agent anatomy, workflows, memory, tools, planning, and design patterns |
 | Multi-agent systems | Coordination, orchestration, protocols, and real-world architectures |
-| Cloud agent platforms | Agentic AI frameworks, protocols, and tools available on AWS |
+| Cloud AI | AWS AI fundamentals plus agentic frameworks, protocols, and tools |
 | RAG | Retrieval pipelines, architecture, production patterns, evaluation, and interview preparation |
 | Context engineering | Context construction, memory, retrieval, and token-budget management |
 | MCP | Model Context Protocol concepts and project examples |
 | Prompting | General, coding, code-review, and productivity prompt collections |
 | Local AI | Ollama-based local model development and QA workflows |
-| Safety and governance | AI security questions, governance models, measurement, and observability |
+| Security and governance | OWASP and Zero Trust for LLMs, AI security questions, governance, measurement, and observability |
+| Architecture and reliability | Software architecture, system design, scalability, Kubernetes, and site reliability engineering |
 | AI strategy and value | Identifying valuable use cases and connecting AI systems to measurable outcomes |
 | Interview preparation | LLM, RAG, LangChain, LangGraph, agentic AI, and system-design Q&A |
-| Supporting engineering | Kubernetes, system design, and software-development practices |
+| Software engineering | Development practices and pragmatic software craftsmanship |
 
 ## Quick-reference materials
 
@@ -79,10 +91,7 @@ A personal reference library for learning and building production-ready AI syste
 - [Most_Asked_50_RAG_Interview_Questions.pdf](Most_Asked_50_RAG_Interview_Questions.pdf)
 - [Agentic AI Interview Q-A.pdf](Agentic%20AI%20Interview%20Q-A.pdf)
 - [200+ AI Security Q&A.pdf](200%2B%20AI%20Security%20Q%26A.pdf)
-
-## Additional resources
-
-The [`Learnings PDF`](Learnings%20PDF/) folder retains a focused copy of selected references on AI concepts, context engineering, AWS agentic AI tools, MCP, value creation, and building agents from development through production.
+- [System Design Questions Ebook.pdf](system-design-questions-ebook.pdf)
 
 ## Study workflow
 
